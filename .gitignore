@@ -3,3 +3,6 @@
 ################################################################################
 
 /MVCWebApp/bin
+/MVCWebApp/obj/Debug
+/MVCWebApp.Tests/obj/Debug
+/.vs
